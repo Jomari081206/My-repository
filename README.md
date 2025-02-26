@@ -9,7 +9,7 @@ This is a simple portfolio website to showcase my personal information and SoloL
 - **Contact:** 09159644815
 - **Email**:jomarifernando012@gmail.com
 ## SoloLearn Certificate
-You can view my SoloLearn certificate [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
+You can view my HTML SoloLearn certificate [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
 
 ## Repository Structure
 - `index.html`: The main HTML file.
