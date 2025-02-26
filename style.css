@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    background-image: url('background.jpg'); /* Add your background image here */
+    background-image: url('path/to/your/image/1567665.webp'); /* Adjust the path as needed */
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
