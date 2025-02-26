@@ -7,7 +7,7 @@ This is a simple portfolio website to showcase my personal information and SoloL
 - **Name:** Jomari Fernando
 - **Bio:** Trust The Process
 - **Contact:** 09159644815
-  jomarifernando012@gmail.com
+- **Email**:jomarifernando012@gmail.com
 ## SoloLearn Certificate
 You can view my SoloLearn certificate [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
 
