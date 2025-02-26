@@ -5,9 +5,9 @@ This is a simple portfolio website to showcase my personal information and SoloL
 
 ## Personal Information
 - **Name:** Jomari Fernando
-- **Bio:** God is good
+- **Bio:** Trust The Process
 - **Contact:** 09159644815
-
+  jomarifernando012@gmail.com
 ## SoloLearn Certificate
 You can view my SoloLearn certificate [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
 
