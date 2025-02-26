@@ -22,5 +22,3 @@ Open the `index.html` file in a web browser to view the portfolio.
 ## Contributing
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
 
-## License
-This project is licensed under the MIT License.
