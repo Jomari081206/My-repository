@@ -10,8 +10,8 @@ This is a simple portfolio website to showcase my personal information and SoloL
 - **Email**:jomarifernando012@gmail.com
 ## SoloLearn Certificate
 - You can view my SoloLearn certificate in HTML [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
-- You can view my SoloLearn certificate in CSS [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
-- You can view my SoloLearn certificate in JAVA SCRIPT [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
+- You can view my SoloLearn certificate in CSS [here](https://www.sololearn.com/certificates/CC-EGQ6EKOS).
+- You can view my SoloLearn certificate in JAVA SCRIPT [here](https://www.sololearn.com/certificates/CC-DSFNWABZ).
 - You can view my SoloLearn certificate in jdavdha [here](https://www.sololearn.com/certificates/CC-TZ5MCXB2).
 ## Repository Structure
 - `index.html`: The main HTML file.
